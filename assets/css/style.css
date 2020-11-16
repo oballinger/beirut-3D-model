@@ -52,6 +52,8 @@ img {
   width: var(--content-width);
 }
 
+responsive-image {  width: 100%;  height: auto; } 
+
 /* Navigation */
 .nav {
   height: 5.5rem;

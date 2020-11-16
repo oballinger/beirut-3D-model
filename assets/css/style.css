@@ -55,9 +55,17 @@ p {
 .wide-img-70{
   width: 70%;
   height: auto;
-  transform: translateX(50%);
+  transform: translateX(25%);
 }
 
+header span {
+  font-size: 1.6rem;
+  width: 100%;
+  text-align: left;
+  margin: 0 auto;
+  line-height: 1.2;
+  color: #666;
+}
 img {
   width: 100%;
   height: auto;

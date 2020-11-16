@@ -48,8 +48,10 @@ p {
 }
 
 .wide-img {
-  width: 100%;
+  width: 90%;
   height: auto;
+  left:50%;
+  transform: translateX(50%);
 }
 
 .wide-img-70{

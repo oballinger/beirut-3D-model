@@ -56,16 +56,9 @@ p {
   width: 70%;
   height: auto;
   transform: translateX(25%);
+  margin: 0 auto;
 }
 
-header span {
-  font-size: 1.6rem;
-  width: 100%;
-  text-align: left;
-  margin: 0 auto;
-  line-height: 1.2;
-  color: #666;
-}
 img {
   width: 100%;
   height: auto;

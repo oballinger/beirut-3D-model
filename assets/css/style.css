@@ -53,13 +53,6 @@ img {
   height: auto;
 }
 
-.full-img {
-  width: 100%;
-  height: auto;
-}
-
-}
-
 /* Navigation */
 .nav {
   height: 5.5rem;
@@ -152,13 +145,13 @@ header h1 {
 }
 
 header img {
-  width: 100%;
+  width: 80%;
 }
 
 header p,
 header span {
   font-size: 1.6rem;
-  width: 100%;
+  width: 80%;
   text-align: left;
   margin: 0 auto;
   line-height: 1.2;
@@ -669,4 +662,3 @@ header span {
 .social__list {
   display: flex;
 }
-

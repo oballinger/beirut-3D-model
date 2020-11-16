@@ -1,6 +1,6 @@
-/*:root {
-/*  --content-width: 50%;
-/*}
+:root {
+  --content-width: 50%;
+}
 
 /* base styles */
 * {
@@ -49,13 +49,9 @@ p {
 
 
 img {
-  width: var(--content-width);
+  width: 100%;
 }
 
-.full-width {
-	width: 100%;
-	height: auto;
-}
 
 /* Navigation */
 .nav {

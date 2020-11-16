@@ -145,13 +145,13 @@ header h1 {
 }
 
 header img {
-  width: 80%;
+  width: 100%;
 }
 
 header p,
 header span {
   font-size: 1.6rem;
-  width: 80%;
+  width: 100%;
   text-align: left;
   margin: 0 auto;
   line-height: 1.2;

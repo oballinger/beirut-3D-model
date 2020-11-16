@@ -52,6 +52,11 @@ p {
   height: auto;
 }
 
+.wide-img-70{
+  width: 70%;
+  height: auto;
+}
+
 img {
   width: 100%;
   height: auto;

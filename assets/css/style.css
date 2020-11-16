@@ -1,6 +1,6 @@
-:root {
-  --content-width: 50%;
-}
+/*:root {
+/*  --content-width: 50%;
+/*}
 
 /* base styles */
 * {
@@ -18,6 +18,7 @@ html {
 body {
   font-size: 1.25rem;
   position: relative;
+  width: 50%
 }
 
 p {
@@ -53,10 +54,8 @@ img {
 }
 
 .full-width {
-	margin-left: -50vw;
-	margin-right: -50vw;
-	position: absolute;
 	width: 100%;
+	height: auto;
 }
 
 /* Navigation */
